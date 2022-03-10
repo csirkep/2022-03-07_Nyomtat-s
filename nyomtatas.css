@@ -3,6 +3,7 @@ body{
 }
 
 .bg-fej {
+  background-image: url("drukletters.jpg");
   background-position: center;
   height: 250px;
   padding-top: 75px;
@@ -40,5 +41,9 @@ a {
 
 #valasz{
   visibility:hidden;
+}
+#szel,
+#mag {
+  margin: 0px auto 15px;
 }
 
